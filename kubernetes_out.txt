@@ -1,0 +1,14 @@
+NAMESPACE     NAME                               READY   STATUS    RESTARTS   AGE
+default       predict-app-c9bbf48d9-jt5zf        1/1     Running   0          67s
+kube-system   coredns-f9fd979d6-j9xbt            1/1     Running   0          5m34s
+kube-system   etcd-minikube                      1/1     Running   0          5m39s
+kube-system   kube-apiserver-minikube            1/1     Running   0          5m39s
+kube-system   kube-controller-manager-minikube   1/1     Running   0          5m39s
+kube-system   kube-proxy-4xsxj                   1/1     Running   0          5m34s
+kube-system   kube-scheduler-minikube            1/1     Running   0          5m39s
+kube-system   storage-provisioner                1/1     Running   0          5m39s
+Error from server (AlreadyExists): services "predict-app" already exists
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+E1121 15:23:04.984488   44702 portforward.go:233] lost connection to pod
