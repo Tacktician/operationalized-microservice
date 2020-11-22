@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/spider-sauce/udacdity-operationalize-a-microservice.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/spider-sauce/udacdity-operationalize-a-microservice)
+[![CircleCI](https://circleci.com/gh/spider-sauce/udacity-operationalized-microservice.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/spider-sauce/udacity-operationalized-microservice)
 
 ## Project Overview
 
