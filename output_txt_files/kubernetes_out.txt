@@ -34,6 +34,6 @@ Handling connection for 8000
 [2020-11-22 16:28:05,053] INFO in app: Output prediction: 
 [20.35373177134412]
 
-# After running qinikube delete #
+# After running minikube delete #
 
 E1121 15:23:04.984488   44702 portforward.go:233] lost connection to pod
