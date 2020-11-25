@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
+Udacity Cloud DevOps Engineer Nanodegree Project 5: __Operationalize a Machine Learning Microservice API__. 
 
-You are given a pre-trained, `sklearn` model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. You can read more about the data, which was initially taken from Kaggle, on [the data source site](https://www.kaggle.com/c/boston-housing). This project tests your ability to operationalize a Python flask app—in a provided file, `app.py`—that serves out predictions (inference) about housing prices through API calls. This project could be extended to any pre-trained machine learning model, such as those for image recognition and data labeling.
+__The sample app__: A pre-trained, `sklearn` model that predicts housing prices in Boston according to several features: e.g. average rooms in a home, data about highway access, teacher-to-pupil ratios, etc. The project tests the ability to operationalize a Python flask app (`app.py`) that outputs predictions (inference) about housing prices through API calls.
+
+> Read more about the data,(initially taken from Kaggle, on [the data source site](https://www.kaggle.com/c/boston-housing). This project could be extended to any pre-trained machine learning model, such as those for image recognition and data labeling.
 
 ### Project Task Summary
 
