@@ -1,5 +1,3 @@
-[![CircleCI](https://circleci.com/gh/spider-sauce/udacity-operationalized-microservice.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/spider-sauce/udacity-operationalized-microservice)
-
 ## Project Overview
 
 Udacity Cloud DevOps Engineer Nanodegree Project 5: __Operationalize a Machine Learning Microservice API__. 
