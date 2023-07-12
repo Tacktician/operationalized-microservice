@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Tacktician/operationalized-microservice/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Tacktician/operationalized-microservice/tree/main)
+
 ## Project Overview
 
 Udacity Cloud DevOps Engineer Nanodegree Project 5: __Operationalize a Machine Learning Microservice API__. 
